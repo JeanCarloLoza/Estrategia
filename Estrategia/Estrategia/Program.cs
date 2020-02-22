@@ -6,9 +6,9 @@ namespace Estrategia
     {
         static void Main(string[] args)
         {
+            IEstrategia tipoArchivo;
             string cNombre = "";
             string cValor = "";
-            string cFormato = "";
             Console.WriteLine("Ingresa el nombre de la imagen");
             cNombre = Console.ReadLine();
             Console.WriteLine("\nEn que formato deseas guardar la imagen:\n"+
@@ -19,18 +19,18 @@ namespace Estrategia
 
             switch (cValor) {
                 case "1":
-                    cFormato = "bpn";
+                    tipoArchivo = new TipoArchivoBPM();
                     break;
                 case "2":
-                    cFormato = "png";
+                    tipoArchivo = new TipoArchivoPNG();
                     break;
                 case "3":
-                    cFormato = "jpg";
+                    tipoArchivo = new TipoArchivoJPG();
                     break;
                 default:
                     throw new Exception("Formato no valido");
             }
-            Console.WriteLine(string.Format("Se ha guardado la imagen {0}.{1}",cNombre, cFormato));
+            tipoArchivo.mostrarMensaje(cNombre);
         }
     }
 }

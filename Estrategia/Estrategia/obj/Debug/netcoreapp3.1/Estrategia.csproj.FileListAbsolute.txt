@@ -1,0 +1,11 @@
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\bin\Debug\netcoreapp3.1\Estrategia.exe
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\bin\Debug\netcoreapp3.1\Estrategia.deps.json
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\bin\Debug\netcoreapp3.1\Estrategia.runtimeconfig.json
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\bin\Debug\netcoreapp3.1\Estrategia.runtimeconfig.dev.json
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\bin\Debug\netcoreapp3.1\Estrategia.dll
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\bin\Debug\netcoreapp3.1\Estrategia.pdb
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\obj\Debug\netcoreapp3.1\Estrategia.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\obj\Debug\netcoreapp3.1\Estrategia.AssemblyInfoInputs.cache
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\obj\Debug\netcoreapp3.1\Estrategia.AssemblyInfo.cs
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\obj\Debug\netcoreapp3.1\Estrategia.dll
+C:\Trabajo\Cursos\Patrones\Estrategia\Estrategia\Estrategia\obj\Debug\netcoreapp3.1\Estrategia.pdb
